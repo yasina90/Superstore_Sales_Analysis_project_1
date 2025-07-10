@@ -71,5 +71,5 @@ This project performs an exploratory data analysis (EDA) on the Superstore Sales
 ---
 
 ## Author  
-Yasin Asadi – Junior Data Scientist | AI/ML Researcher | Data Analyst  
-[LinkedIn](https://www.linkedin.com/in/yasinasadi) | [GitHub](https://github.com/yasinasadi)
+Yasin Asadi –  Data Scientist | AI/ML Researcher | Data Analyst  
+
